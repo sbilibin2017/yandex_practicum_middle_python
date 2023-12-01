@@ -1,0 +1,30 @@
+[submodule "sprint_1_django_admin_panel"]
+	path = sprint_1_django_admin_panel
+	url = git@github.com:sbilibin2017/sprint_1_django_admin_panel.git
+[submodule "sprint_2_django_admin_panel"]
+	path = sprint_2_django_admin_panel
+	url = git@github.com:sbilibin2017/sprint_2_django_admin_panel.git
+[submodule "sprint_3_elasticsearch"]
+	path = sprint_3_elasticsearch
+	url = git@github.com:sbilibin2017/sprint_3_elasticsearch.git
+[submodule "sprint_4_fastapi"]
+	path = sprint_4_fastapi
+	url = git@github.com:sbilibin2017/sprint_4_fastapi.git
+[submodule "sprint_5_fastapi_tests"]
+	path = sprint_5_fastapi_tests
+	url = git@github.com:sbilibin2017/sprint_5_fastapi_tests.git
+[submodule "sprint_6_flask_auth"]
+	path = sprint_6_flask_auth
+	url = git@github.com:sbilibin2017/sprint_6_flask_auth.git
+[submodule "sprint_7_fastapi_flask_integration"]
+	path = sprint_7_fastapi_flask_integration
+	url = git@github.com:sbilibin2017/sprint_7_fastapi_flask_integration.git
+[submodule "sprint_8_ugc"]
+	path = sprint_8_ugc
+	url = git@github.com:sbilibin2017/sprint_8_ugc.git
+[submodule "sprint_9_ugc"]
+	path = sprint_9_ugc
+	url = git@github.com:sbilibin2017/sprint_9_ugc.git
+[submodule "sprint_10_notifications"]
+	path = sprint_10_notifications
+	url = git@github.com:sbilibin2017/sprint_10_notifications.git
